@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+writeup/*.aux
+writeup/*.log
+writeup/*.out
+writeup/*.fls
+writeup/*.fdb_latexmk
+writeup/*.synctex.gz
